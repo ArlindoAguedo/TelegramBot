@@ -1,0 +1,5 @@
+$ git remote add botelegram "https://github.com/ArlindoAguedo/TelegramBot.git"
+$ git status
+$ git add .
+$ git commit -m bottelegram
+$ git push -u botelegram master
